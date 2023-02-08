@@ -27,11 +27,10 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/cloudevents/sdk-go/v2 v2.9.0
-	github.com/containerd/containerd v1.6.1
+	github.com/containerd/containerd v1.6.14
 	github.com/containerd/typeurl v1.0.2
-	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c
-	github.com/fsouza/go-dockerclient v1.7.10
+	github.com/fsouza/go-dockerclient v1.9.4
 	github.com/gardener/component-cli v0.39.0
 	github.com/gardener/component-spec/bindings-go v0.0.61
 	github.com/ghodss/yaml v1.0.0
@@ -47,7 +46,6 @@ require (
 	github.com/jinzhu/copier v0.3.5
 	github.com/mandelsoft/vfs v0.0.0-20210530103237-5249dc39ce91
 	github.com/onsi/gomega v1.19.0
-	github.com/opencontainers/runc v1.0.3 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/satori/go.uuid v1.2.0
 	github.com/shurcooL/githubv4 v0.0.0-20211117020012-5800b9de5b8b
@@ -62,7 +60,7 @@ require (
 	github.com/tidwall/gjson v1.14.1
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220412020605-290c469a71a5
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	google.golang.org/api v0.76.0
 	gopkg.in/yaml.v2 v2.4.0
